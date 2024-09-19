@@ -1,7 +1,6 @@
 /*
-Skills used: User Defined Functions(UDFs), conditional logics, Table and data engineering,
-			 #temporary tables, Common Table Expressions(CTEs), window functions, joins,
-			 column aggregations, date and time functions. 
+Skills used: User Defined Functions(UDFs), conditional logics, Table and data engineering, #temporary tables, window functions, joins,
+	     Common Table Expressions(CTEs), column aggregations, date and time functions. 
 */
 USE Sales;
 
