@@ -1,7 +1,7 @@
 /*
 Skills used: Sub queries, views,  Common Table Expressions(CTEs), window functions, joins,
 			 columns aggregations, advanced analytical functions, table partitioning,
-			 data engineering, conditional logics, type conversions
+			 data cleaning and feature engineering, conditional logics, type conversions
 */
 USE [Project Covid];
 ----------------------------------1. DATA CLEANING & MANIPULATION----------------------------------
