@@ -153,13 +153,13 @@ FROM T1
 GROUP BY time_of_day
 ORDER BY sum_revenue DESC;
 
--- number of products sold
+-- number of units sold by product
 SELECT [product], COUNT([product]) AS products_sold
 FROM sales
 GROUP BY [product]
 ORDER BY products_sold DESC;
 
--- basket analysis
+--market basket analysis
 SELECT
     a.[product] AS product_A,
     b.[product] AS product_B,
